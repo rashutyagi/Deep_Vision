@@ -51,7 +51,7 @@ And the another important reason is that 3*3 kernels are accelerated in Nividia 
 
 When we randomly initialize the kernel(and how it is done randomly is shown in answer above) values then that thing sounds ofcourse weird because everyone will be getting totally different outcomes for the same model everytime they run. Now what happens for a DNN is training and that is the most time taking process in the entire DNN cycle. What in short happens in training a DNN is that the kernel values which we initialized randomly are now changed slowly based on the output we received using the previous Kernel values and they are changed in such a way that we get accuracy better than before not immediately after it but yes after a couple of running our networks.
 
-And slowly what happens is that for some particular vlaues of our kernel our model stops showing improvement in accuracy any more and there we say that the training is complete now and the kernel values for that accuracy are our final kernel values.
+And slowly what happens is that for some particular values of our kernel our model stops showing improvement in accuracy any more and there we say that the training is complete now and the kernel values for that accuracy are our final kernel values.
 
 ##### In short learning the kernel values or the weights in order to get good accuracy is what we call as training.
 
