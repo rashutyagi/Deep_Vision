@@ -4,9 +4,9 @@
 ### Answer.)  I have written a blog explaining both these terms intuitively with images and here is the link 
 
 Sneak peak from the article 
-![](Image_1.png)
+![](https://github.com/rashutyagi/Deep_Vision/blob/master/Session_1/Image_1.PNG)
 
-![](Image_2.png)
+![](https://github.com/rashutyagi/Deep_Vision/blob/master/Session_1/Image_2.PNG)
 
 
 [What are kernels and channels in CNN ? ](https://medium.com/@rashutyagi/what-are-channels-and-kernels-in-convolutional-neural-networks-d6b8b60e00d0?source=friends_link&sk=080c46defb4dd9f9e79fde5e90830eb8)
@@ -20,7 +20,7 @@ Now the question arises that why to use only 3*3 and not 5*5 or 7*7* or 9*9 --> 
 
 Every 3*3 is a 2*2 also see below:
 
-![](Image_3.JPG)
+![](https://github.com/rashutyagi/Deep_Vision/blob/master/Session_1/Image_3.jpg)
 
 
 Now the question might arise up that instead of using 2 3*3 kernels why can't we use a single 5*5 kernel ? --> What happens in 5*5 kernel is that we have 25 parameters(Why? Pick up a pen and paper and try to figure out) while if we consider 2 3*3 kernels then in total we will have 18(9+9) parameters and this difference starts increasing exponentially hence the best suited kernel for most of the cases is 3*3 only.
