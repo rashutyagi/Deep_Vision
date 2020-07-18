@@ -4,9 +4,9 @@
 ### Answer.)  I have written a blog explaining both these terms intuitively with images and here is the link 
 
 Sneak peak from the article 
-!(Image_1.png)
+![](Image_1.png)
 
-!(Image_2.png)
+![](Image_2.png)
 
 
 [What are kernels and channels in CNN ? ](https://medium.com/@rashutyagi/what-are-channels-and-kernels-in-convolutional-neural-networks-d6b8b60e00d0?source=friends_link&sk=080c46defb4dd9f9e79fde5e90830eb8)
