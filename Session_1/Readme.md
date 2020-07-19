@@ -1,5 +1,7 @@
 # Session-1-Assignment
 
+Submitted by - Rashu Tyagi (Individually)
+
 ## Question -1) What are Channels and Kernels?
 ### Answer.)  I have written a blog explaining both these terms intuitively with images and here is the link 
 
