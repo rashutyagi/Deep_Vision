@@ -25,6 +25,10 @@ Every 3*3 is a 2*2 also see below:
 
 Now the question might arise up that instead of using 2 3*3 kernels why can't we use a single 5*5 kernel ? --> What happens in 5*5 kernel is that we have 25 parameters(Why? Pick up a pen and paper and try to figure out) while if we consider 2 3*3 kernels then in total we will have 18(9+9) parameters and this difference starts increasing exponentially hence the best suited kernel for most of the cases is 3*3 only.
 
+This is how it looks :
+
+![](https://github.com/rashutyagi/Deep_Vision/blob/master/Session_1/Image_4.png)
+
 And the another important reason is that 3*3 kernels are accelerated in Nividia Graphic Card.
 
 ## Question -3.) How many times to we need to perform 3x3 convolutions operations to reach close to 1x1 from 199x199 (type each layer output like 199x199 > 197x197...)
