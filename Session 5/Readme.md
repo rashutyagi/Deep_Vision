@@ -8,5 +8,13 @@ Here is our Round 1 Model Summary
 
 ![Model Summary Round 1](https://github.com/rashutyagi/Deep_Vision/blob/master/Session%205/Model%20Summary_R1.PNG)
 
+You can see the training logs in the code file but here is the final Summary ->
+
+![Results for Round 1](https://github.com/rashutyagi/Deep_Vision/blob/master/Session%205/Results_R1.PNG)
+
+
+
+
+
 
 
